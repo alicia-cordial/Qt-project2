@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/Users/alicia/Documents/GitHub/Essai/build/Qt_6_7_0_for_macOS-Debug/Essai_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/alicia/Documents/GitHub/Essai/build/Qt_6_7_0_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/alicia/Documents/GitHub/Essai/build/Qt_6_7_0_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/alicia/Documents/GitHub/Essai",
+	"CMAKE_SOURCE_DIR" : "/Users/alicia/Documents/GitHub/Essai",
+	"INCLUDE_DIR" : "/Users/alicia/Documents/GitHub/Essai/build/Qt_6_7_0_for_macOS-Debug/Essai_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/alicia/Documents/GitHub/Essai/icupcake.png",
+		"/Users/alicia/Documents/GitHub/Essai/science.png",
+		"/Users/alicia/Documents/GitHub/Essai/licorne.png",
+		"/Users/alicia/Documents/GitHub/Essai/bg.jpeg"
+	],
+	"LOCK_FILE" : "/Users/alicia/Documents/GitHub/Essai/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/Essai_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "/Users/alicia/Qt/6.7.0/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/alicia/Documents/GitHub/Essai/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/Essai_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/alicia/Documents/GitHub/Essai/res.qrc",
+	"VERBOSITY" : 0
+}

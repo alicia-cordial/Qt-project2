@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icupcake.png</file>
+        <file>licorne.png</file>
+        <file>bg.jpeg</file>
+        <file>science.png</file>
+    </qresource>
+</RCC>
