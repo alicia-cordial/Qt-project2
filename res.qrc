@@ -5,4 +5,5 @@
         <file>bg.jpeg</file>
         <file>science.png</file>
     </qresource>
+    <qresource prefix="/sounds"/>
 </RCC>
