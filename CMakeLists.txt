@@ -37,6 +37,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         Health.h
         Health.cpp
         res.qrc
+        essai.cpp
 
 
 
